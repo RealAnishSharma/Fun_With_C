@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455050179 source:c:\c folder\snake_again\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+

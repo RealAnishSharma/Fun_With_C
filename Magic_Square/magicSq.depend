@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454244993 source:c:\c folder\magicsq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

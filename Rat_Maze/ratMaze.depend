@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1459328100 source:c:\c folder\ratmaze\main.c
+	<stdbool.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+

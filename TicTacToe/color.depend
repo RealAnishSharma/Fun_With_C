@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453983833 source:c:\c folder\color\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
